@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Contributor Agreement
+description: A reusable, versioned contributor agreement for open-source projects.
+markdown: kramdown
